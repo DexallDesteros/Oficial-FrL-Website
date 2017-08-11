@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<!--make a website with a chart, image, link, and colored background.try to integrate Python in, using Javascript.
+
+Project Deadline: October 1st, 2017-->
+    <head>
+        <title>Project SnakeHunt</title>
+    </head>
+    <body bgcolor="0000FF">
+        <p><b>Project Snake-Hunt</b></p>
+        <img src="http://pre04.deviantart.net/f71f/th/pre/i/2014/008/1/b/magi__sinbad_x_baal_by_pink_bang-d71gihy.png" alt="Failed to load image." width="50%" height="50%">
+        <p>Random picture set. (super big, so I resized it 50/50.)<br/></p>
+        <table border="2" bgcolor="0FFFFF">
+            <tr>Contributors to this project:</tr>
+                <td>
+                    Dexall
+                </td>
+                <td>
+                    Project Host
+                </td>
+                <td>
+                    <p>
+                        Main goal is to find a way to integrate Python into html. Best bet is Javascript.
+                    </p>
+                </td>
+            <tr>
+                <td>
+                    Nico
+                </td>
+                <td>
+                    HTML Specialist
+                </td>
+                <td>
+                    <p>
+                        My kouhai, who will be in charge of making the website pretty.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Fractured Legends
+                </td>
+                <td>
+                    Discord Server
+                </td>
+                <td>
+                    <p>
+                        They offer this project lots of moral support <3
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <script>
+            alert("welcome to this experimental project! The deadline of this project is October 1st, 2017.")
+        </script>
+    </body>
+</html>
